@@ -21,6 +21,7 @@ Create a 360° dashboard to uncover key business metrics across Finance, Sales, 
  - Stakeholder-focused insights
  - Data integration from multiple sources
 
-## 𝗢𝘂𝘁𝗰𝗼𝗺𝗲:A sleek, insightful dashboard that empowers AtliQ to make informed, strategic decisions and compete head-to-head with data-savvy rivals.
+## 𝗢𝘂𝘁𝗰𝗼𝗺𝗲:
+A sleek, insightful dashboard that empowers AtliQ to make informed, strategic decisions and compete head-to-head with data-savvy rivals.
 
 🔗 Check out the live dashboard: https://tinyurl.com/BI-360-live-dashboard
